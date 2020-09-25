@@ -936,6 +936,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [BaasBox](https://www.baasbox.com) | [@baasbox](https://twitter.com/baasbox) | - | - |
 | [LoopBack](https://loopback.io/) | - | - | - |
 | [Para](https://paraio.com) | [@Para_IO](https://twitter.com/para_io) | Free - $99/mo | A flexible and affordable backend API for busy developers. |
+| [Linx](https://linx.software) | [@linxcode](https://twitter.com/linxcode) | $149/mo | Low-code tool to design and host backends (for mobile or web) |
 
 ### WebSockets-aaS
 
@@ -1029,6 +1030,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Deployd](https://deployd.com) | [@deploydapp](https://twitter.com/deploydapp) | Free (OSS) | Design, build, and scale APIs for web and mobile apps in minutes instead of days. |
 | [Apiary](https://apiary.io) | [@apiary](https://twitter.com/apiaryio) | Free - $99/mo | Powerful API Design Stack. Built for Developers. Work together to quickly design, prototype, document and test APIs. |
 | [Postwoman](https://postwoman.io) | [@liyasthomas](https://twitter.com/liyasthomas) | Free (OSS) | A free, fast and beautiful API request builder. |
+| [Linx](https://linx.software) | [@linxcode](https://twitter.com/linxcode) | $149/mo | Code-free bespoke API development & hosting - Built for IT pros |
 
 ### Password Management
 
